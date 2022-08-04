@@ -1,0 +1,17 @@
+Name: Nancy Rhodes
+  ID: 2
+    Course ID:    1
+  Course Name:    Algebra
+Course Credit:    5
+        Grade:    4
+          GPA:    3
+    Course ID:    2
+  Course Name:    Physics
+Course Credit:    4
+        Grade:    4
+          GPA:    3
+    Course ID:    4
+  Course Name:    Economics
+Course Credit:    4
+        Grade:    3
+          GPA:    3

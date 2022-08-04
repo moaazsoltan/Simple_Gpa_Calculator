@@ -1,0 +1,17 @@
+Name: George P. Burdell
+  ID: 1
+    Course ID:    1
+  Course Name:    Algebra
+Course Credit:    5
+        Grade:    3
+          GPA:    2
+    Course ID:    2
+  Course Name:    Physics
+Course Credit:    4
+        Grade:    4
+          GPA:    2
+    Course ID:    3
+  Course Name:    English
+Course Credit:    3
+        Grade:    2
+          GPA:    2
